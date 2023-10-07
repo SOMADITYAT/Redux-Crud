@@ -1,0 +1,11 @@
+.card-header {
+    text-align: right;
+}
+.card{
+    
+        width: 100%;
+        max-width: 1050px;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 36px;
+}

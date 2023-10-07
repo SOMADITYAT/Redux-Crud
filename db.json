@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "id": 3,
+      "name": "Admin User",
+      "email": "Admin@gmail.com",
+      "phone": "12345678",
+      "role": "admin"
+    },
+    {
+      "id": 4,
+      "name": "Admin User",
+      "email": "Admin@gmail.com",
+      "phone": "1234567899",
+      "role": "admin",
+      "": "staff"
+    },
+    {
+      "id": 5,
+      "name": "ajay",
+      "email": "ashu@gmail.com",
+      "phone": "233",
+      "role": "admin",
+      "": "staff"
+    },
+    {
+      "name": "mannu",
+      "email": "fvdffd@gmail.com",
+      "phone": "+91 93408-78224",
+      "role": "admin",
+      "": "staff",
+      "id": 6
+    }
+  ]
+}
